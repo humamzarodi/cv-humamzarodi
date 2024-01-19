@@ -19,7 +19,7 @@
 
 #### 2. [Universitas Gadjah Mada](https://geo.ugm.ac.id/) | Bachelor Degree of Cartography and Remote Sensing, Geography Faculty, Universitas Gadjah Mada | Yogyakarta `1999-2005`
 
- #### 3. [SMA N 5 Yogyakarta](http://sman5yk.sch.id/) | IPA | Yogyakarta `1996-1999`
+#### 3. [SMA N 5 Yogyakarta](http://sman5yk.sch.id/) | IPA | Yogyakarta `1996-1999`
    - Member of Paskibraka Team
    - Member of Boy Scout 
    - Member of Table Tennis Extracurricular
