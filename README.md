@@ -27,7 +27,9 @@
 ## Work Experience:
 #### 1. [UNDP Indonesia](https://www.undp.org/id/indonesia) | PETRA Project (Lombok Earthquake 2018) | Mataram '2019 - 2020`
   
-#### 2. [UNDP Indonesia](https://www.undp.org/id/indonesia) | MRR Project (Merapi Eruption 2009) | Yogyakarta '2010 - 2013`
+#### 2. [UNDP Indonesia](https://www.undp.org/id/indonesia) | MRR Project (Merapi Eruption 2010) | Yogyakarta '2010 - 2013`
+
+#### 3. [UNDP Indonesia](https://www.undp.org/id/indonesia) | RISE Project (West Sumatra Earthquake 2009) | Yogyakarta '2009 - 2010`
 
 ---
 
