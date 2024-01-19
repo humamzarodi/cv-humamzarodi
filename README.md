@@ -18,11 +18,6 @@
    - Participant of "Understanding Human Right, Climate Change, Disaster and Displacement" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
 
 #### 2. [Universitas Gadjah Mada](https://geo.ugm.ac.id/) | Bachelor Degree of Cartography and Remote Sensing, Geography Faculty, Universitas Gadjah Mada | Yogyakarta `1999-2005`
-   - Asistant Researcher of "Impact Studies of the Covid-19 Pandemic on Socio-Economic of the Community" (2020)
-   - Thesis: "Study of Behaviour of Micro Small Medium Enterprises (SMEs) in Facing the Covid-19 Pandemic in Sriharjo Village, Imogiri, Bantul" (2022)
-   - Facilitator of "Post-Disaster Needs Assessment Workshop" - Master of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
-   - Participant of "The Basic Counseling Workshop" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
-   - Participant of "Understanding Human Right, Climate Change, Disaster and Displacement" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
 
  #### 3. [SMA N 5 Yogyakarta](http://sman5yk.sch.id/) | IPA | Yogyakarta `1996-1999`
    - Member of Paskibraka Team
@@ -30,14 +25,10 @@
    - Member of Table Tennis Extracurricular
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [UNDP Indonesia](https://www.undp.org/id/indonesia) | PETRA Project (Lombok Earthquake 2018) | Mataram '2019 - 2020`
+  
+#### 2. [UNDP Indonesia](https://www.undp.org/id/indonesia) | MRR Project (Merapi Eruption 2009) | Yogyakarta '2010 - 2013`
+
 ---
 
 ### Languages and Tools:
@@ -58,8 +49,8 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/fb-light.svg)](https://www.facebook.com/didikhz#gh-light-mode-only)
-[![website](./img/fb-dark.svg)](https://www.facebook.com/didikhz#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://www.facebook.com/didikhz#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://www.facebook.com/didikhz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://id.linkedin.com/in/humamzarodi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://id.linkedin.com/in/humamzarodi#gh-dark-mode-only)
