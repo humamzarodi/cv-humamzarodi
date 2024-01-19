@@ -1,20 +1,33 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Humam Zarodi - aka [humamzarodi](https://www.instagram.com/humam.zarodi/) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🔭 I’m currently working as GIS Analyst, WebGIS Programmer, Geodatabase, Cartographer, Remote Sensing, Disaster Management, Disaster Information System and Post-Disaster
+ Needs Assessment
+- 🌱 I’m currently learning Leaflet Javascript and GitHub
+- 👯 I’m looking to collaborate as GIS Analyst, WebGIS and Disaster Information System
+- 🤔 I’m looking for suggest for Geopatial and Disaster Management Project
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: humam.zarodi@gmail.com or [Whatsapp](https://wa.me/+6281328781680)
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Gadjah Mada](https://www.pasca.ugm.ac.id/v3.0/id/) | Master Degree of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada | Yogyakarta `2019-2022`
+   - Asistant Researcher of "Impact Studies of the Covid-19 Pandemic on Socio-Economic of the Community" (2020)
+   - Thesis: "Study of Behaviour of Micro Small Medium Enterprises (SMEs) in Facing the Covid-19 Pandemic in Sriharjo Village, Imogiri, Bantul" (2022)
+   - Facilitator of "Post-Disaster Needs Assessment Workshop" - Master of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+   - Participant of "The Basic Counseling Workshop" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+   - Participant of "Understanding Human Right, Climate Change, Disaster and Displacement" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+
+#### 2. [Universitas Gadjah Mada](https://geo.ugm.ac.id/) | Bachelor Degree of Cartography and Remote Sensing, Geography Faculty, Universitas Gadjah Mada | Yogyakarta `1999-2005`
+   - Asistant Researcher of "Impact Studies of the Covid-19 Pandemic on Socio-Economic of the Community" (2020)
+   - Thesis: "Study of Behaviour of Micro Small Medium Enterprises (SMEs) in Facing the Covid-19 Pandemic in Sriharjo Village, Imogiri, Bantul" (2022)
+   - Facilitator of "Post-Disaster Needs Assessment Workshop" - Master of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+   - Participant of "The Basic Counseling Workshop" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+   - Participant of "Understanding Human Right, Climate Change, Disaster and Displacement" - Disaster of Disaster Management, The Graduate School of Faculty, Universitas Gadjah Mada (2021)
+
+ #### 3. [SMA N 5 Yogyakarta](http://sman5yk.sch.id/) | IPA | Yogyakarta `1996-1999`
+   - Member of Paskibraka Team
+   - Member of Boy Scout 
+   - Member of Table Tennis Extracurricular
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
@@ -42,18 +55,18 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/fb-light.svg)](https://www.facebook.com/didikhz#gh-light-mode-only)
+[![website](./img/fb-dark.svg)](https://www.facebook.com/didikhz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://id.linkedin.com/in/humamzarodi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://id.linkedin.com/in/humamzarodi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/humam.zarodi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/humam.zarodi#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/humamzarodi/humamzarodi
