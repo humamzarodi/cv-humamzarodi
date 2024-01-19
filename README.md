@@ -1,4 +1,4 @@
-# Hi there, I'm Humam Zarodi - aka [humamzarodi](https://www.instagram.com/humam.zarodi/) 👋
+# Hi there, I'm Humam Zarodi - aka [Didik HZ](https://www.instagram.com/humam.zarodi/) 👋
 ## About me:
 - 🔭 I’m currently working as GIS Analyst, WebGIS Programmer, Geodatabase, Cartographer, Remote Sensing, Disaster Management, Disaster Information System and Post-Disaster
  Needs Assessment
@@ -33,12 +33,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="QGIS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Postgressql" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="GeoServer" width="125px" src="https://upload.wikimedia.org/wikipedia/fr/7/7c/Logo_Geoserver.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="VSC" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="XAMPP" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="LeafletJS" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/320px-Leaflet_logo.svg.png" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
@@ -48,9 +48,6 @@
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCCBZckxil_BDYtPLER2IRsw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://www.facebook.com/didikhz#gh-light-mode-only)
-[![website](./img/twitter-light.svg)](https://www.facebook.com/didikhz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://id.linkedin.com/in/humamzarodi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://id.linkedin.com/in/humamzarodi#gh-dark-mode-only)
