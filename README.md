@@ -29,7 +29,7 @@
   
 #### 2. [UNDP Indonesia](https://www.undp.org/id/indonesia) | MRR Project (Merapi Eruption 2010) | Yogyakarta '2010 - 2013`
 
-#### 3. [UNDP Indonesia](https://www.undp.org/id/indonesia) | RISE Project (West Sumatra Earthquake 2009) | Yogyakarta '2009 - 2010`
+#### 3. [UNDP Indonesia](https://www.undp.org/id/indonesia) | RISE Project (West Sumatra Earthquake 2009) | Padang '2009 - 2010`
 
 ---
 
